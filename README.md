@@ -1,1 +1,2 @@
 # module-12-
+i applied my Python skills to a comprehensive business analytics scenario for “GreenGrocer,” a growing chain of organic grocery stores. i analyzeD their sales, customer, and operational data to provide insights and recommendations that can guide business decision-making. This assignment integrates the programming fundamentals, data manipulation techniques, visualization skills, and analytical concepts I learned throughout the course.
